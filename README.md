@@ -1,2 +1,2 @@
 # warcraft_335_addons
-Addons for 3.3.5
+Addons for Wold of Warcraft 3.3.5 - Wrath o the Lich King
